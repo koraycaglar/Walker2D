@@ -1,5 +1,5 @@
 # Walker2D
-Reinforcement Learning practice using Twin-Delayed DDPG(TD3) algoritm. Trained on Walker2DPyBulletEnv-v0 environment. PyTorch is used.
+Reinforcement Learning practice using Twin-Delayed DDPG(TD3) algorithm. Trained on Walker2DPyBulletEnv-v0 environment. PyTorch is used.
 
 ## Result
 
